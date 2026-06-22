@@ -9,7 +9,7 @@ const allProjects = [
     desc: 'Website resmi DPD Partai NasDem Kota Malang. Menampilkan informasi organisasi, berita, galeri, program kerja, laporan partai, dan fitur aspirasi masyarakat.',
     tags: ['Laravel', 'PHP', 'MySQL'],
     url: 'https://nasdemkotamalang.com/',
-    img: 'src/assets/photo/nasdem.png',
+    img: 'dzDevs/images/nasdem.png'
   },
   {
     title: 'Website Travel Umroh',
@@ -17,7 +17,23 @@ const allProjects = [
     desc: 'Website landing page travel umroh premium. Menampilkan paket perjalanan umroh, informasi harga, serta fitur pemesanan (booking) online.',
     tags: ['WordPress', 'PHP', 'CSS'],
     url: 'https://travelumroh.thinkaplay.com/',
-    img: 'src/assets/photo/travelumroh.png',
+    img: 'dzDevs/images/travelumroh.png',
+  },
+  {
+    title: 'Website Agency Digital',
+    category: 'Landing Page',
+    desc: 'Website landing page agency digital. Menampilkan informasi layanan, portofolio, testimoni, serta fitur konsultasi online.',
+    tags: ['WordPress', 'PHP', 'CSS'],
+    url: 'https://infomalang.com/imc-agency',
+    img: 'dzDevs/images/dzdevs.png',
+  },
+  {
+    title: 'Cyber Rhetoric UNSIA',
+    category: 'Web App',
+    desc: 'Website jurnal ilmiah Cyber Rhetoric milik Universitas Siber Asia (UNSIA). Platform publikasi artikel akademik di bidang komunikasi dan retorika digital.',
+    tags: ['WordPress', 'PHP', 'OJS'],
+    url: 'https://cyberrhetoric.unsia.ac.id/',
+    img: 'dzDevs/images/cyberrhetoric.png',
   },
 ];
 
